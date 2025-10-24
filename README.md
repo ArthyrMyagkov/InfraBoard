@@ -1,4 +1,4 @@
-# My Next.js Project
+# InfraBoard Next.js Project
 
 A modern, intuitive web application built with **Next.js**, **TypeScript**, **Zustand**, and **PostgreSQL**.  
 Focused on performance, scalability, and user-friendly design, with clean UI, smooth animations, and real-time capabilities.
